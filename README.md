@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi github devs :raised_hands:
+
+I'm a CS student and android developer, very passionate about mathematics and linux :heart:.
+
+I really love ``low level programming`` and ``coding challenges`` like Project Euler.
 
 <!--
 **emenjivar/emenjivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
