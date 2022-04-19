@@ -1,4 +1,4 @@
-### Hi github devs :raised_hands:
+### Hi devs :raised_hands:
 
 I'm a CS student and android developer, very passionate about mathematics and linux :heart:.
 
