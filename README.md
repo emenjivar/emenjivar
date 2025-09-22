@@ -1,7 +1,12 @@
-### Hi devs :raised_hands:
+## Hi devs :raised_hands:
 
 I'm an android developer, very passionate about mathematics and linux :heart:.
 
+### Language and tools
+<img src="https://skillicons.dev/icons?i=kotlin,linux,bash,firebase" />
+
+### Stats
+<img src="https://github-readme-stats.vercel.app/api?username=emenjivar&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
 <!--
 **emenjivar/emenjivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
