@@ -8,3 +8,5 @@ I enjoy experimenting with low-level stuff — Bluetooth, Linux, and the occasio
 ### Currently experimenting with
 - [Simple Android BLE](https://github.com/emenjivar/simple-android-ble-gatt) — BLE GATT on Android + Raspberry Pi
 - [3D projections with linear algebra](https://github.com/emenjivar/basic-3d-projections) — 3D from scratch using Compose Canvas
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=emenjivar&theme=transparent&hide_border=true)](https://git.io/streak-stats)
