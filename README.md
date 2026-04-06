@@ -1,23 +1,10 @@
-## Hi devs :raised_hands:
-
-I'm an android developer, very passionate about mathematics and linux :heart:.
+## Hi, I'm charlie :raised_hands:
+Android Engineer passionate about building clean, well-crafted apps.
+I enjoy experimenting with low-level stuff — Bluetooth, Linux, and the occasional math rabbit hole.
 
 ### Language and tools
-<img src="https://skillicons.dev/icons?i=kotlin,linux,bash,firebase" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,raspberrypi,linux,bash,firebase" />
 
-### Stats
-<img src="https://github-readme-stats.vercel.app/api?username=emenjivar&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
-<!--
-**emenjivar/emenjivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently experimenting with
+- [Simple Android BLE](https://github.com/emenjivar/simple-android-ble-gatt) — BLE GATT on Android + Raspberry Pi
+- [3D projections with linear algebra](https://github.com/emenjivar/basic-3d-projections) — 3D from scratch using Compose Canvas
