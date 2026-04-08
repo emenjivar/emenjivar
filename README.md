@@ -1,6 +1,6 @@
 ## Hi, I'm charlie :raised_hands:
 Android Engineer passionate about building clean, well-crafted apps.
-I enjoy experimenting with low-level stuff — Bluetooth, Linux, and the occasional math rabbit hole.
+I enjoy experimenting with low-level stuff like Bluetooth, Linux, and the occasional math rabbit hole.
 
 ### Language and tools
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,raspberrypi,linux,bash,firebase" />
