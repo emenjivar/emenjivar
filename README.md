@@ -6,7 +6,7 @@ I enjoy experimenting with low-level stuff like Bluetooth, Linux, and the occasi
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,raspberrypi,linux,bash,firebase" />
 
 ### Currently experimenting with
-- [Simple Android BLE](https://github.com/emenjivar/simple-android-ble-gatt): BLE GATT on Android + Raspberry Pi
+- [Android PI BLE commissioning](https://github.com/emenjivar/pi-ble-commissioning): Android app and python GATT server for configuring Wi-Fi credentials on raspberry Pi over BLE
 - [3D projections with linear algebra](https://github.com/emenjivar/basic-3d-projections): 3D from scratch using Compose Canvas
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=emenjivar&theme=transparent&hide_border=true)](https://git.io/streak-stats)
