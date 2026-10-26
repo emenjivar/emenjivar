@@ -10,4 +10,4 @@ I enjoy experimenting with low-level stuff like Bluetooth, Linux, and the occasi
 - [3D projections with linear algebra](https://github.com/emenjivar/basic-3d-projections): 3D from scratch using Compose Canvas
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=emenjivar&theme=transparent&hide_border=true)](https://git.io/streak-stats) -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emenjivar&theme=tokyo-night&hide_border=true)](https://github.com/emenjivar)
+![My GitHub Game](game.gif)
